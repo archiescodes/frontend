@@ -35,14 +35,14 @@
     padding: 10px;
     border: none;
     border-radius: 5px;
-    background-color: #007bff;
+    background-color: #00ff00;
     color: white;
     font-size: 16px;
     cursor: pointer;
 }
 
 .submit-button:hover {
-    background-color: #0056b3;
+    background-color: #00ff00;
 }
 
 .message {
@@ -79,7 +79,7 @@
 }
 
 .user-table th {
-    background-color: #007bff;
+    background-color: #00ff00;
     color: white;
 }
 
